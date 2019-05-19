@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+.profile{
+  justify-content: center;
+}
+.profilepicture {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.id{
+  padding-top: 10px;
+  justify-content: center;
+}
+
+.text a{
+  text-decoration: none;
+  
+}
+
